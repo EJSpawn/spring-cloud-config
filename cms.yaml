@@ -1,0 +1,12 @@
+{
+  "name": "cms",
+  "profiles": [
+    "development"
+  ],
+  "label": "main",
+  "version": "edbcd5f7ee656dd68f4766b510fd2d6ee34e5160",
+  "state": null,
+  "propertySources": [
+   "authenticationUrl" : "teste"
+  ]
+}
